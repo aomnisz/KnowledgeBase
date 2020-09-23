@@ -6,3 +6,4 @@
 * [关于本知识库](/)
 * [提取网易云音乐的音频缓存（含 Python 脚本）](/Weiming/提取网易云音乐缓存.md)
 * [在 Linux 后台运行脚本的三种办法](/Weiming/在Linux后台运行脚本.md)
+* [如何阅读一篇论文](/Weiming/How-to-Read-a-Paper.md)
