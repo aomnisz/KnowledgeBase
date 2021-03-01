@@ -1,5 +1,8 @@
 # <span style="color: #EF5350">A</span>omnis<span style="color: #EF5350">Z</span>'s <span style="color: #EF5350">K</span>nowledge<span style="color: #EF5350">B</span>ase
 
+[CreateTime]: # (2020.08.06)
+[ModifyTime]: # (2020.08.06)
+
 ## 我的代码居然被送去北极了？
 
 起初这个仓库是使用 Tiddlywiki 来建造我的个人知识库的。
