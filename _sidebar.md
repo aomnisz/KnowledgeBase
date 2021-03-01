@@ -9,3 +9,4 @@
 * [如何阅读一篇论文](/Weiming/How-to-Read-a-Paper.md)
 * [收集一些 0e 开头的 Hash](/Weiming/Hash-starts-with-0e.md)
 * [Windows 下的 Node.js 版本管理工具](/Weiming/nvm-or-n-on-windows.md)
+* [没有银弹](/Weiming/no-silver-bullet.md)
