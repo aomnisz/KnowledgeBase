@@ -11,3 +11,4 @@
 * [Windows 下的 Node.js 版本管理工具](/Weiming/nvm-or-n-on-windows.md)
 * [没有银弹](/Weiming/no-silver-bullet.md)
 * [为什么我会沉迷于小说而不是论文](/Weiming/why-novels-instead-of-papers.md)
+* [编译 WNDR3800 固件](/Weiming/compile-WNDR3800-firmware.md)
