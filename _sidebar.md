@@ -10,3 +10,4 @@
 * [收集一些 0e 开头的 Hash](/Weiming/Hash-starts-with-0e.md)
 * [Windows 下的 Node.js 版本管理工具](/Weiming/nvm-or-n-on-windows.md)
 * [没有银弹](/Weiming/no-silver-bullet.md)
+* [为什么我会沉迷于小说而不是论文](/Weiming/why-novels-instead-of-papers.md)
